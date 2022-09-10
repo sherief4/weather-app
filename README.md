@@ -1,6 +1,6 @@
 <h1>Weather App</h1>
 
-> This project is powered by FLutter **3.0.5** and dart **2.17.6**. And is built using Weather Api.
+> This project is powered by FLutter **3.0.5** and dart **2.17.6**. And is built using [Weather Api](https://www.weatherapi.com/).
 
 To select and install a specific version of flutter, I recommend using FVM: [fvm.app](https://fvm.app)
 
@@ -34,7 +34,7 @@ The main packages used in the project:
 ## build&run
 
 - Before everything add your own api key by changing API_KEY located at lib/core/strings/end_points 
-- You can get your own api key please visit: [Download Apk](https://www.weatherapi.com/) 
+- You can get your own api key please visit: [Weather Api](https://www.weatherapi.com/) 
 
 The minimum required set of commands
 
